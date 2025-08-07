@@ -1,4 +1,4 @@
-# Day 8 - Wrap-up, Data Analysis & Effective Viz
+# Day 8 - Wrap-up, OOP, numpy, algorithms
 ### August 7, 2025
 
 ##  Agenda
