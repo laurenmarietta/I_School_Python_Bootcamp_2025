@@ -1,0 +1,67 @@
+{"Deirdre":[
+    {
+      "title": "Daily Standup",
+      "start": "09:00",
+      "end": "09:30"
+    },
+    {
+      "title": "Project Sync",
+      "start": "10:00",
+      "end": "11:00"
+    },
+    {
+      "title": "Lunch",
+      "start": "12:00",
+      "end": "13:00"
+    },
+    {
+      "title": "Client Call",
+      "start": "14:30",
+      "end": "15:30"
+    }
+  ],
+  "Hany":[
+    {
+      "title": "Code Review",
+      "start": "09:15",
+      "end": "10:00"
+    },
+    {
+      "title": "1:1 with Manager",
+      "start": "10:30",
+      "end": "11:00"
+    },
+    {
+      "title": "Team Lunch",
+      "start": "12:30",
+      "end": "13:30"
+    },
+    {
+      "title": "Interview Panel",
+      "start": "14:00",
+      "end": "15:00"
+    }
+  ],
+  "Coye": [
+    {
+      "title": "Planning Meeting",
+      "start": "09:45",
+      "end": "10:45"
+    },
+    {
+      "title": "Work Session",
+      "start": "11:00",
+      "end": "12:30"
+    },
+    {
+      "title": "Lunch Break",
+      "start": "12:00",
+      "end": "12:45"
+    },
+    {
+      "title": "Wrap-Up Meeting",
+      "start": "15:00",
+      "end": "16:00"
+    }
+  ]
+}
